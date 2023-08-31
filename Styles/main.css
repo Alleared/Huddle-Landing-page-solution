@@ -76,7 +76,7 @@ section {
 .header-container, .features-container, .footer-container {
     display: flex;
     justify-content: space-between;
-    max-width: 68.75rem;
+    max-width: 90rem;
     margin: auto;
     padding: var(--DESKTOP-PADDING);
 }
